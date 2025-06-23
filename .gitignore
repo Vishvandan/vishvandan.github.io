@@ -1,0 +1,12 @@
+*.log
+*.zip
+*.tar
+*.rar
+node_modules/
+__pycache__/
+*.DS_Store
+*.bak
+*.tmp
+*.swp
+*.psd
+EOF
